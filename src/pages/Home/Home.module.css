@@ -1,0 +1,26 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+
+h2{
+    color: brown;
+}
+
+.btn{
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+    background-color: brown;
+    border: 2px solid brown;
+    padding: 5px 30px;
+    border-radius: 30px;
+}
+
+.btn:hover{
+    background-color: transparent;
+    color: brown;
+}

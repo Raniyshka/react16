@@ -1,0 +1,28 @@
+.product{
+    margin: 50px;
+}
+
+.product img{
+    width: 700px;
+}
+
+.info{
+    margin-top: 50px;
+    display: flex;
+    gap: 100px;
+}
+
+.price{
+    color: blue;
+    font-size: 25px;
+}
+
+.infoDannie{
+    display: flex;
+    flex-direction: column;
+}
+
+.desc{
+    width: 700px;
+
+}
